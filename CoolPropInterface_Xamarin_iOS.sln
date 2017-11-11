@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoolPropInterface_Xamarin_iOS", "CoolPropInterface_Xamarin_iOS\CoolPropInterface_Xamarin_iOS.csproj", "{CEC22285-5110-4C0D-A999-FDD43BE50666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEC22285-5110-4C0D-A999-FDD43BE50666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC22285-5110-4C0D-A999-FDD43BE50666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC22285-5110-4C0D-A999-FDD43BE50666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC22285-5110-4C0D-A999-FDD43BE50666}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
